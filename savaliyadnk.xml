@@ -1,12 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- Copyright (C) 2020, RTE (http://www.rte-france.com) -->
-<!-- Copyright (C) 2023 Savoir-faire Linux, Inc. -->
-<!-- SPDX-License-Identifier: Apache-2.0 -->
 <manifest>
   <!-- Remote repositories definition -->
   <remote name="github" fetch="https://github.com"/>
 
-  <!-- all savaliyadnk repositories -->
+  <!-- All savaliyadnk repositories -->
   <project name="technology" revision="main" remote="savaliyadnk" path="sources/technology"/>
   <project name="embedded" revision="master" remote="savaliyadnk" path="sources/embedded"/>
   <project name="readme" revision="master" remote="savaliyadnk" path="sources/readme"/>
