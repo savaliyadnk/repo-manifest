@@ -13,6 +13,6 @@
   <project name="readme" revision="master" remote="savaliyadnk" path="sources/readme"/> -->
 
   <!-- All embeddednext repositories -->
-  <project name="blog" revision="main" remote="embeddednext" path="sources/blog"/>
+  <project name="blogs" revision="main" remote="embeddednext" path="sources/blogs"/>
   
 </manifest>
