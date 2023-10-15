@@ -13,8 +13,8 @@ To use this manifest repo, the `repo` tool must be installed first.
 
 Add Path
 ------------------------------
-  1. Windows > Add path environment system variable path "C:\Users\Administrator\.bin"
-  2. Linux   > Add path to ~/.bashrc & source ~/.bashrc
+  1. Windows > Add path to environment system variable path "C:\Users\Administrator\.bin"
+  2. Linux   > Add path to ~/.bashrc & source ~/.bashrc [sudo apt-get install repo]
 
 Download Repo Projects
 ------------------------------
