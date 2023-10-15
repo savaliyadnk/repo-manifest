@@ -19,8 +19,8 @@ Add Path
 Download Repo Projects
 ------------------------------
 ```
-$: mkdir <release>
-$: cd <release>
+$: mkdir <projects>
+$: cd <projects>
 $: repo init -u https://github.com/savaliyadnk/repo-manifest.git -b main
 $: repo sync
 ```
