@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <manifest>
   <!-- Remote repositories definition -->
-  <remote name="github" fetch="https://github.com"/>
+  <remote name="origin" fetch="https://github.com/savaliyadnk"/>
+  <default remote="origin" sync-j="4" revision="master"/>
 
   <!-- All savaliyadnk repositories -->
   <project name="technology" revision="main" remote="savaliyadnk" path="sources/technology"/>
