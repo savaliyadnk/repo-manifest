@@ -2,7 +2,7 @@
 <manifest>
   <!-- Remote repositories definition -->
   <remote name="savaliyadnk" fetch="https://github.com/savaliyadnk"/>
-  <default remote="savaliyadnk" sync-j="4" revision="master"/>
+  <default remote="savaliyadnk" sync-j="4"/>
 
   <!-- All savaliyadnk repositories -->
   <project name="savaliyadnk" revision="main" remote="savaliyadnk" path="sources/savaliyadnk"/>
