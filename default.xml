@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <manifest>
   <!-- Remote repositories definition -->
-  <remote name="savaliyadnk" fetch="git://savaliyadnk.github.com"/>
+  <remote name="savaliyadnk" fetch="ssh://git@github.com/savaliyadnk"/>
   <remote name="embeddednext" fetch="ssh://git@github.com/embeddednext"/>
   
   <default remote="savaliyadnk" sync-j="4"/>
