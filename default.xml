@@ -9,8 +9,8 @@
   <!-- All savaliyadnk repositories -->
   <project name="savaliyadnk" revision="main" remote="savaliyadnk" path="sources/savaliyadnk"/>
   <project name="technology" revision="main" remote="savaliyadnk" path="sources/technology"/>
-<!--   <project name="embedded" revision="master" remote="savaliyadnk" path="sources/embedded"/>
-  <project name="readme" revision="master" remote="savaliyadnk" path="sources/readme"/> -->
+  <project name="embedded" revision="master" remote="savaliyadnk" path="sources/embedded"/>
+  <project name="readme" revision="master" remote="savaliyadnk" path="sources/readme"/>
 
   <!-- All embeddednext repositories -->
   <project name="blogs" revision="main" remote="embeddednext" path="sources/blogs"/>
