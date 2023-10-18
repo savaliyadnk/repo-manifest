@@ -14,7 +14,7 @@
 
   <!-- All embeddednext repositories -->
   <project name="blogs" revision="main" remote="embeddednext" path="sources/blogs"/>
-<!--   <project name="business" revision="main" remote="embeddednext" path="sources/business"/>
-  <project name="embedded" revision="main" remote="embeddednext" path="sources/embedded"/> -->
+  <project name="business" revision="main" remote="embeddednext" path="sources/business"/>
+<!--   <project name="embedded" revision="main" remote="embeddednext" path="sources/embedded"/> -->
   
 </manifest>
